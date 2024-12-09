@@ -11,8 +11,8 @@
 ## Demo
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img alt="View Site" src="./src/images/scroll.png" />
+  <a href="https://dracula27.github.io/ogMandino10Scrolls/" target="_blank">
+    <img alt="View Site" src="./public/scroll.png" height="80px" />
   </a>
 </p>
 
